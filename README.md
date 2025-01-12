@@ -3,6 +3,6 @@ This repository contains all resources for the certification of Freecodecamp's R
 
 <p align="center">
   <a href="https://www.freecodecamp.org/certification/Nilesh_Patel/responsive-web-design">
-    <img src="https://github.com/niel-pate/WebDesignCourseFcc/issues/1#issue-2782471759" alt="freeCodeCamp Certificate" width="600px">
+    <img src="https://private-user-images.githubusercontent.com/109123466/402356524-2687a8c5-e561-4a0d-af31-d34149d7bddc.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzY2ODcxMTgsIm5iZiI6MTczNjY4NjgxOCwicGF0aCI6Ii8xMDkxMjM0NjYvNDAyMzU2NTI0LTI2ODdhOGM1LWU1NjEtNGEwZC1hZjMxLWQzNDE0OWQ3YmRkYy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMTEyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDExMlQxMzAwMThaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04NWIwMjZjODkzZWNhNjNhNWUxZjI2OThkOGY1MzRhMzNjYmExZWIzZmVlYzc0YjNlNDEzNDdlN2IzMzYxYzdlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.AkymHg_B-aEor6uFHKb94ituORQzpp058RtiXA079-g" alt="freeCodeCamp Certificate" width="600px">
   </a>
 </p>
